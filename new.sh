@@ -1,3 +1,1 @@
-su -
-yum install git
-yum install wget
+yum repolist
