@@ -1,3 +1,2 @@
-sudo su -
-ps -ef | grep artifactory
-ps - ef | grep sonar
+sudo yum install git
+sudo yum install wget
